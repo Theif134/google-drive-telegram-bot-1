@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "2136137234:AAHISdoS6BKMSCLxQ-HxQtxwSPfQOA9g-Z4"
-    APP_ID = "13751988"
-    API_HASH = "8a885cc6e1ac3b96afdcfb976fd02118"
-    DATABASE_URL = "postgres://pjoslcjsynwrtj:ae5f54aeed44e7fac4e88cae6507871b744ec0250d567b9c15489a8376cc97e0@ec2-3-221-225-131.compute-1.amazonaws.com:5432/de8tke7s8gttrl"
+    BOT_TOKEN = "2119052610:AAEGWN8fYXB4RF2ktq0T1ynL5bk0RhY_LPw"
+    APP_ID = "4773639"
+    API_HASH = "493cb7cb8428c5de4490ab47e936fb96"
+    DATABASE_URL = "postgres://bhbmkvadzgrsnr:726fe7fab03ca8b6e4cca275beb0385bc5c91cd450435012c048f2d724041e28@ec2-3-214-226-101.compute-1.amazonaws.com:5432/d1et6i93anabke"
     SUDO_USERS = "1682767082 1290751149 1237643807" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/cP_cQ3V_K-AwOGI1"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "911246878007-mdt714i7n4gf9945snf2ce2bh34679qq.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "224006576709-6aqt545k21msg73tjtvsj16enf6ah110.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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x"
 
 
 class BotCommands:
@@ -41,11 +41,11 @@ class Messages:
         "**Developed by @Tharshikan**"
         ]
      
-    RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__what are you fucking here.__"
+    RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **😡😡😡😡😡Rate Limit Exceeded.🖕🖕🖕🖕**\n__what are you fucking here.__"
     
     FILE_NOT_FOUND_MESSAGE = "❗ **File/Folder not found.**\n__File id - {} Not found. Make sure it\'s exists and accessible by the logged account.__"
     
-    INVALID_GDRIVE_URL = "❗ **Invalid Google Drive URL**\nMake sure the Google Drive URL is in valid format."
+    INVALID_GDRIVE_URL = "❗ **Invalid Google Drive URL😡😡😡😡**\nMake sure the Google Drive URL is in valid format."
     
     COPIED_SUCCESSFULLY = "✅ **Copied successfully I am happy.**\n[{}]({}) __({})__"
     
@@ -53,17 +53,17 @@ class Messages:
     
     DOWNLOADED_SUCCESSFULLY = "📤 **Uploading File to my Google drive...**\n**Filename:** ```{}```\n**Size:** ```{}```"
     
-    UPLOADED_SUCCESSFULLY = "✅ **Uploaded Successfully to https://pjalwalsindex.priyanshujalwal.workers.dev/0:/THARSHIKAN%20MASS%202003/.**\n[{}]({}) __({})__"
+    UPLOADED_SUCCESSFULLY = "✅ **😁😁😁😁Uploaded Successfully to https://pjalwalsindex.priyanshujalwal.workers.dev/0:/THARSHIKAN%20MASS%202003/😁😁😁😁.**\n[{}]({}) __({})__"
     
-    DOWNLOAD_ERROR = "❗**Downloader Failed Fucking error**\n{}\n__Link - {}__"
+    DOWNLOAD_ERROR = "❗**Downloader Failed Fucking error🖕🖕🖕🖕🖕🖕**\n{}\n__Link - {}__"
     
-    DOWNLOADING = "📥 **Downloading File now wait with pleasure Tharshikan have a tea break...\nLink:** ```{}```"
+    DOWNLOADING = "📥 **Downloading File now wait with pleasure Tharshikan have a tea break😍😍😍😍...\nLink:** ```{}```"
     
     ALREADY_AUTH = "🔒 **Already authorized your Google Drive Account.**\n__Use /revoke to revoke the current account.__\n__Send me a direct link or File to Upload on Google Drive__"
     
     FLOW_IS_NONE = f"❗ **Invalid Code**\n__Run {BotCommands.Authorize[0]} first.__"
     
-    AUTH_SUCCESSFULLY = '🔐 **Authorized Google Drive account Successfully upload files fast  enjoy enjaami Tharshikan.**'
+    AUTH_SUCCESSFULLY = '🔐 **😍😍😍😍Authorized Google Drive account Successfully upload files fast  enjoy enjaami Tharshikan😍😍😍😍😍.**'
     
     INVALID_AUTH_CODE = '❗ **Invalid Code**\n__The code you have sent is invalid or already used before. Generate new one by the Authorization URL__'
     
@@ -81,7 +81,7 @@ class Messages:
     
     NOT_FOLDER_LINK = "❗ **Invalid folder link.**\n__The link you send its not belong to a folder.__"
     
-    CLONING = "🗂️ **Cloning into Google Drive waiting patiently tharshi bro coo...**\n__G-Drive Link - {}__"
+    CLONING = "🗂️ **Cloning into Google Drive waiting patiently tharshi bro coo😍😍😍...**\n__G-Drive Link - {}__"
     
     PROVIDE_GDRIVE_URL = "**❗ Provide a valid Google Drive URL along with commmand.**\n__Usage - /{} (GDrive Link)__"
     
@@ -89,7 +89,7 @@ class Messages:
     
     DELETED_SUCCESSFULLY = "🗑️✅ **File Deleted Successfully.**\n__File deleted permanently !\nFile id - {}__"
     
-    WENT_WRONG = "⁉️ **ERROR: SOMETHING WENT WRONG**\n__Please try again later.__"
+    WENT_WRONG = "⁉️ **😱😱😱ERROR: SOMETHING WENT WRONG😱😱😱😱**\n__Please try again later.__"
     
     EMPTY_TRASH = "🗑️🚮**Trash Emptied Successfully !**"
     
